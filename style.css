@@ -1,0 +1,37 @@
+.Heading {
+    text-align: center;
+    font-weight: bold;
+    line-height: 15px;
+}
+
+.time-mark {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.main-section {
+    padding-left: 300px;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 6px;
+    padding-right: 40px;
+}
+
+hr {
+    margin-top: 40px;
+    margin-right: 300px;
+    width: 85%;
+}
+
+.last-line {
+    text-align: end;
+    color: gray;
+    margin-right: 150px;
+}
